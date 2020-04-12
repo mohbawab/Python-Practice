@@ -1,0 +1,6 @@
+print ("Hello")
+print ("When were you born ? ")
+x= int(input ())
+y= int(x + 100)
+z="You wil Turn 100 in %d" %y
+print (z)
