@@ -1,0 +1,7 @@
+print ("Hello")
+x = int(input("Please insert the number to determine if it's odd or even "))
+if (x%2 == 0):
+    y = 'even' 
+else :
+    y= 'odd'
+print (y)
