@@ -1,0 +1,10 @@
+mylist=[]
+count=0
+
+for i in range (5):
+    x=int(input('Please ente)r a number'))
+    mylist.append(x)
+    count+=x
+
+print(count)
+print(mylist)
